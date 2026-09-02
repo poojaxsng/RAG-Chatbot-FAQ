@@ -3,6 +3,9 @@
 *.env
 .env.*
 
+# Streamlit secrets (real key) - keep the .example file tracked
+.streamlit/secrets.toml
+
 # Unrelated project in this workspace folder
 zomato-lite/
 

@@ -3,6 +3,17 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+def _api_key(env_name: str) -> str | None:
+    """Read an API key from the environment, falling back to Streamlit secrets."""
+    value = os.getenv(env_name)
+    if value:
+        return value
+    try:
+        import streamlit as st
+        return st.secrets.get(env_name)
+    except Exception:
+        return None
+
 # ─── URLs ────────────────────────────────────────────────
 SCHEME_URLS = {
     "large_cap": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
@@ -51,9 +62,9 @@ SIMILARITY_THRESHOLD = 0.3
 LLM_TEMPERATURE = 0.1
 LLM_MAX_TOKENS  = 512
 LLM_TOP_P       = 0.9
-MISTRAL_API_KEY   = os.getenv("MISTRAL_API_KEY")
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
-GEMINI_API_KEY    = os.getenv("GEMINI_API_KEY")
+MISTRAL_API_KEY   = _api_key("MISTRAL_API_KEY")
+ANTHROPIC_API_KEY = _api_key("ANTHROPIC_API_KEY")
+GEMINI_API_KEY    = _api_key("GEMINI_API_KEY")
 
 LLM_MODEL_MISTRAL   = "mistral-small-latest"
 LLM_MODEL_ANTHROPIC = "claude-3-haiku-20240307"
