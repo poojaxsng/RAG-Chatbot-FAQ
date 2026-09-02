@@ -28,16 +28,22 @@ st.markdown(
     .block-container {{ padding-top: 1.5rem; padding-bottom: 3rem; max-width: 760px; }}
     [data-testid="stSidebar"] {{ display: none; }}
 
-    [data-testid="stHtml"], .stHtml {{ overflow: visible; }}
-    .chat-header {{ display: flex; align-items: center; gap: 12px; padding: 6px 0 12px; overflow: visible; }}
+    [data-testid="stHtml"], .stHtml {{
+        overflow: visible; height: auto !important; min-height: 0;
+    }}
+    [data-testid="stHtml"] > *, .stHtml > * {{ height: auto !important; }}
+    .chat-header {{
+        display: flex; align-items: center; gap: 12px;
+        padding: 4px 0; overflow: visible; height: auto; min-height: 0;
+    }}
     .chat-logo {{
         width: 42px; height: 42px; border-radius: 10px; flex: 0 0 auto;
         background: {GROWW_GREEN}; color: #fff;
         display: flex; align-items: center; justify-content: center;
         font-size: 20px; font-weight: 700; line-height: 1; overflow: visible;
     }}
-    .chat-title {{ color: {GROWW_DARK}; font-size: 1.5rem; font-weight: 700; margin: 0; line-height: 1.25; }}
-    .chat-subtitle {{ color: #667085; font-size: 0.9rem; margin: 1px 0 0 0; line-height: 1.35; }}
+    .chat-title {{ color: {GROWW_DARK}; font-size: 1.5rem; font-weight: 700; margin: 0; line-height: 1.3; }}
+    .chat-subtitle {{ color: #667085; font-size: 0.9rem; margin: 2px 0 0 0; line-height: 1.4; overflow: visible; }}
     .suggestions-label {{ color: #667085; font-size: 0.85rem; margin: 12px 0 4px; }}
 
     /* Native Streamlit chat message styling */
@@ -94,14 +100,15 @@ def run_query(text: str) -> None:
 
 
 # ─── Header ─────────────────────────────────────────────
-st.html(
+st.markdown(
     f'''<div class="chat-header">
         <div class="chat-logo">H</div>
         <div>
             <div class="chat-title">HDFC Mutual Fund Assistant</div>
             <div class="chat-subtitle">Ask anything about our HDFC fund schemes — get quick, sourced answers.</div>
         </div>
-    </div>'''
+    </div>''',
+    unsafe_allow_html=True,
 )
 
 # ─── Render history ─────────────────────────────────────
