@@ -1,0 +1,47 @@
+Website - https://groww.in/ 
+AMC - HDFC 
+
+Scope your corpus to only and only 5 Public Pages Schemes- chatbot restricted to fetch only from these pages, no opinionated answers, only factual response: 
+Large Cap  https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth 
+Small Cap — https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth 
+Flexi Cap — https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth 
+ELSS (Tax Saver) — https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth 
+Hybrid (Balanced Advantage Fund) — https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth 
+
+
+
+What are we building - A RAG Chatbot + its prototype 
+Context - Building a small FAQ assistant that answers facts about mutual fund schemes—using only official 5 above mentioned public pages. Every answer must include one source link. No advice. 
+
+
+RAG work: Quick pipeline 
+
+Data Ingestion
+
+Uploading the doc 
+Chunking
+Strategy - use as per data (given 5 urls )
+Embedding
+Free an lightweight embedding model  
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2 
+
+
+Storing in vector database
+ChromaDB
+
+
+Data Retrieval 
+
+Question 
+Embedding 
+Same
+Finding the right chunk from vector space
+LLM Prompt generation
+LLM - anthropic, gemini, mistral - can use fallback too. This time we use Mistral API Key : 
+Answer generation 
+
+
+UI 
+Simple basic UI interface 
+Color - Groww design system 
+Streamlit or Google Stitch

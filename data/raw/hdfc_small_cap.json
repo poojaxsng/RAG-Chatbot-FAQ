@@ -1,0 +1,760 @@
+{
+  "scheme_key": "small_cap",
+  "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+  "fund_name": "HDFC Small Cap Fund",
+  "scheme_name": "HDFC Small Cap Fund Direct Growth",
+  "fund_house": "HDFC Mutual Fund",
+  "amc": "HDFC",
+  "category": "Equity",
+  "sub_category": "Small Cap",
+  "plan_type": "Direct",
+  "scheme_type": "Growth",
+  "nav": 160.418,
+  "nav_date": "02-Sep-2026",
+  "expense_ratio": "0.75",
+  "aum": 41679.0037,
+  "fund_manager": "Chirag Setalvad",
+  "benchmark": "BSE 250 SmallCap TRI",
+  "benchmark_name": "BSE 250 SmallCap Total Return Index",
+  "exit_load": "Exit load of 1% if redeemed within 1 year",
+  "min_investment_amount": 100,
+  "min_sip_investment": 100,
+  "launch_date": "01-Jan-2013",
+  "allotment_date": "2013-01-01",
+  "portfolio_turnover": 6,
+  "groww_rating": 3,
+  "isin": "INF179KA1RW5",
+  "scheme_code": "130503",
+  "description": "The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.",
+  "meta_desc": "HDFC Small Cap Fund Direct Growth is Small Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 11.33. Risk is Very High",
+  "sip_allowed": true,
+  "lumpsum_allowed": true,
+  "returns": {
+    "return1d": 0.01,
+    "return1w": 0.26,
+    "return1m": 0.14,
+    "return3m": 6.51,
+    "return6m": 5.21,
+    "return1y": 0.25,
+    "return3y": 11.33,
+    "return5y": 16.12,
+    "return10y": 17.69,
+    "return_default": 16.3
+  },
+  "sip_returns": {
+    "return3m": 26.781046014656916,
+    "return6m": -1.6017356543738772,
+    "return1y": -5.720716096477582,
+    "return3y": 5.1143912745794395,
+    "return5y": 13.47639943507163,
+    "return10y": 18.150044629831115
+  },
+  "holdings": [
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "corpus_per": 9.94,
+      "market_value": 4142.7115
+    },
+    {
+      "company_name": "Firstsource Solutions Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 4.24,
+      "market_value": 1768.0724
+    },
+    {
+      "company_name": "Aster DM Healthcare Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 3.89,
+      "market_value": 1622.9266
+    },
+    {
+      "company_name": "Gabriel India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 3.34,
+      "market_value": 1392.1025
+    },
+    {
+      "company_name": "eClerx Services Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.85,
+      "market_value": 1189.9149
+    },
+    {
+      "company_name": "Bank Of Baroda",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.73,
+      "market_value": 1136.0665
+    },
+    {
+      "company_name": "Krishna Institute Of Medical Sciences Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.15,
+      "market_value": 895.9181
+    },
+    {
+      "company_name": "Eris Lifesciences Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.1,
+      "market_value": 875.7633
+    },
+    {
+      "company_name": "Fortis Healthcare Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.99,
+      "market_value": 828.7816
+    },
+    {
+      "company_name": "Indian Bank",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.94,
+      "market_value": 810.4119
+    },
+    {
+      "company_name": "The Federal Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.79,
+      "market_value": 744.9529
+    },
+    {
+      "company_name": "Home First Finance Company India Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.73,
+      "market_value": 721.7647
+    },
+    {
+      "company_name": "Apar Industries Ltd",
+      "sector_name": "Diversified",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.62,
+      "market_value": 674.4191
+    },
+    {
+      "company_name": "PVR Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.57,
+      "market_value": 652.397
+    },
+    {
+      "company_name": "Sonata Software Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.55,
+      "market_value": 647.6277
+    },
+    {
+      "company_name": "The Great Eastern Shipping Company Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.47,
+      "market_value": 612.35
+    },
+    {
+      "company_name": "Vijaya Diagnostic Centre Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.46,
+      "market_value": 607.155
+    },
+    {
+      "company_name": "Chalet Hotels Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.46,
+      "market_value": 610.5108
+    },
+    {
+      "company_name": "Suprajit Engineering Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.43,
+      "market_value": 597.6738
+    },
+    {
+      "company_name": "Kalpataru Power Transmission Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.43,
+      "market_value": 597.864
+    },
+    {
+      "company_name": "Pearl Global Industries Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.42,
+      "market_value": 592.7743
+    },
+    {
+      "company_name": "Sudarshan Chemical Industries Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.41,
+      "market_value": 587.0331
+    },
+    {
+      "company_name": "Godrej Consumer Products Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.4,
+      "market_value": 583.1981
+    },
+    {
+      "company_name": "Aditya Vision Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.35,
+      "market_value": 562.2617
+    },
+    {
+      "company_name": "Power Mech Projects Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.35,
+      "market_value": 564.608
+    },
+    {
+      "company_name": "City Union Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.32,
+      "market_value": 550.8219
+    },
+    {
+      "company_name": "Timken India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.32,
+      "market_value": 548.1378
+    },
+    {
+      "company_name": "Vardhman Textiles Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.31,
+      "market_value": 547.2667
+    },
+    {
+      "company_name": "Blue Dart Express Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.25,
+      "market_value": 522.2554
+    },
+    {
+      "company_name": "Dodla Dairy Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.24,
+      "market_value": 515.1114
+    },
+    {
+      "company_name": "Fiem Industries Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.23,
+      "market_value": 511.1671
+    },
+    {
+      "company_name": "Equitas Small Finance Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.23,
+      "market_value": 513.056
+    },
+    {
+      "company_name": "Akzo Nobel India Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.22,
+      "market_value": 509.8533
+    },
+    {
+      "company_name": "JK Tyre & Industries Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.09,
+      "market_value": 454.7687
+    },
+    {
+      "company_name": "Sharda Cropchem Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.07,
+      "market_value": 446.6737
+    },
+    {
+      "company_name": "Transport Corporation Of India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.06,
+      "market_value": 443.8208
+    },
+    {
+      "company_name": "LG Balakrishnan & Brothers Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.06,
+      "market_value": 440.7524
+    },
+    {
+      "company_name": "Mahindra CIE Automotive Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.06,
+      "market_value": 443.2241
+    },
+    {
+      "company_name": "Redington Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.05,
+      "market_value": 436.361
+    },
+    {
+      "company_name": "Vishal Mega Mart Ltd.",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.05,
+      "market_value": 439.3527
+    },
+    {
+      "company_name": "Zensar Technologies Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.02,
+      "market_value": 426.3486
+    },
+    {
+      "company_name": "Voltamp Transformers Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.96,
+      "market_value": 398.6605
+    },
+    {
+      "company_name": "Shoppers Stop Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.94,
+      "market_value": 391.2667
+    },
+    {
+      "company_name": "VRL Logistics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.92,
+      "market_value": 382.9975
+    },
+    {
+      "company_name": "Kirloskar Ferrous Industries Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.9,
+      "market_value": 375.7385
+    },
+    {
+      "company_name": "Chambal Fertilisers & Chemicals Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.9,
+      "market_value": 376.4777
+    },
+    {
+      "company_name": "NRB Bearings Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.86,
+      "market_value": 358.6208
+    },
+    {
+      "company_name": "UTI Asset Management Company Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.86,
+      "market_value": 359.7822
+    },
+    {
+      "company_name": "Tega Industries Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.83,
+      "market_value": 345.8011
+    },
+    {
+      "company_name": "Indigo Paints Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.83,
+      "market_value": 346.8856
+    },
+    {
+      "company_name": "Lumax Industries Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.77,
+      "market_value": 318.9983
+    },
+    {
+      "company_name": "The Anup Engineering Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.77,
+      "market_value": 321.4762
+    },
+    {
+      "company_name": "PNC Infratech Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.77,
+      "market_value": 322.0857
+    },
+    {
+      "company_name": "SKF India (Industrial) Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.73,
+      "market_value": 303.71
+    },
+    {
+      "company_name": "Redtape Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.71,
+      "market_value": 296.7718
+    },
+    {
+      "company_name": "Mastek Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.71,
+      "market_value": 296.1952
+    },
+    {
+      "company_name": "Tata Steel Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.7,
+      "market_value": 292.9463
+    },
+    {
+      "company_name": "DHFL VYSYA HOUSING FINANCE LIMITED EQ",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.67,
+      "market_value": 280.3683
+    },
+    {
+      "company_name": "Bajaj Consumer Care Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.67,
+      "market_value": 277.773
+    },
+    {
+      "company_name": "Unichem Laboratories Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.61,
+      "market_value": 254.5768
+    },
+    {
+      "company_name": "KEC International Ltd",
+      "sector_name": "Diversified",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.56,
+      "market_value": 232.5643
+    },
+    {
+      "company_name": "Bajaj Electricals Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.5,
+      "market_value": 208.284
+    },
+    {
+      "company_name": "Ion Exchange (India) Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.49,
+      "market_value": 202.1992
+    },
+    {
+      "company_name": "Gateway Distriparks Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.47,
+      "market_value": 195.6863
+    },
+    {
+      "company_name": "Wakefit Innovations Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.46,
+      "market_value": 191.9205
+    },
+    {
+      "company_name": "Awfis Space Solutions Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.45,
+      "market_value": 185.8364
+    },
+    {
+      "company_name": "GMM Pfaudler Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.44,
+      "market_value": 183.6298
+    },
+    {
+      "company_name": "GNA Axles Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.42,
+      "market_value": 175.5707
+    },
+    {
+      "company_name": "Vesuvius India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.42,
+      "market_value": 174.6498
+    },
+    {
+      "company_name": "La Opala RG Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.42,
+      "market_value": 174.1153
+    },
+    {
+      "company_name": "Kei Industries Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.42,
+      "market_value": 174.965
+    },
+    {
+      "company_name": "Insecticides (India) Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.4,
+      "market_value": 166.6099
+    },
+    {
+      "company_name": "SKF India Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.39,
+      "market_value": 164.0094
+    },
+    {
+      "company_name": "IFGL Refractories Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.33,
+      "market_value": 136.3513
+    },
+    {
+      "company_name": "G R Infraprojects Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.32,
+      "market_value": 132.3543
+    },
+    {
+      "company_name": "Gujarat Pipavav Port Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.32,
+      "market_value": 132.2376
+    },
+    {
+      "company_name": "Emami Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.32,
+      "market_value": 133.9793
+    },
+    {
+      "company_name": "Sula Vineyards Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.25,
+      "market_value": 102.5216
+    },
+    {
+      "company_name": "Brainbees Solutions Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.25,
+      "market_value": 104.4054
+    },
+    {
+      "company_name": "Goodyear India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.25,
+      "market_value": 104.6837
+    },
+    {
+      "company_name": "DB Corp Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.24,
+      "market_value": 98.7868
+    },
+    {
+      "company_name": "Carborundum Universal Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.17,
+      "market_value": 69.4169
+    },
+    {
+      "company_name": "BEML Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.17,
+      "market_value": 71.1499
+    },
+    {
+      "company_name": "Jupiter Life Line Hospitals Ltd.",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.14,
+      "market_value": 56.6339
+    },
+    {
+      "company_name": "TCI Express Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.06,
+      "market_value": 26.8748
+    },
+    {
+      "company_name": "Net Current Assets",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "corpus_per": 0.04,
+      "market_value": 10.2043
+    }
+  ],
+  "fund_managers": [
+    {
+      "person_name": "Dhruv Muchhal",
+      "date_from": "2023-06-21T18:30:00.000Z",
+      "education": "Mr. Dhruv has done B.Com, CA and CFA",
+      "experience": "Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells"
+    },
+    {
+      "person_name": "Chirag Setalvad",
+      "date_from": "2014-06-27T18:30:00.000Z",
+      "education": "Mr. Setalvad is a B. Sc and MBA from University of North Carolina.",
+      "experience": "Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V."
+    }
+  ],
+  "stats": [
+    {
+      "type": "FUND_RETURN",
+      "title": "Fund Returns",
+      "stat_1y": 0.25,
+      "stat_3y": 11.33,
+      "stat_5y": 16.12,
+      "stat_all": 16.3
+    },
+    {
+      "type": "CATEGORY_AVG_RETURN",
+      "title": "Category Average",
+      "stat_1y": -6.287113895986091,
+      "stat_3y": 19.69509809136353,
+      "stat_5y": 22.634728896983034,
+      "stat_all": null
+    },
+    {
+      "type": "RANK_WITHIN_CATEGORY",
+      "title": "Rank Within Category",
+      "stat_1y": 44,
+      "stat_3y": 34,
+      "stat_5y": 17,
+      "stat_all": null
+    }
+  ],
+  "analysis": [
+    {
+      "analysis_type": "CONS",
+      "analysis_subject": "c_return_analysis",
+      "analysis_desc": "3Y and 5Y annualised returns lower than category average"
+    },
+    {
+      "analysis_type": "PROS",
+      "analysis_subject": "expense_analysis",
+      "analysis_desc": "Lower expense ratio: 0.75%"
+    },
+    {
+      "analysis_type": "PROS",
+      "analysis_subject": "p_return_analysis",
+      "analysis_desc": "1Y and 10Y annualised returns higher than category average"
+    }
+  ],
+  "lock_in": {
+    "years": null,
+    "months": null,
+    "days": null
+  },
+  "category_info": {
+    "category": "Equity",
+    "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
+    "definition": "",
+    "sub_type": "Contra",
+    "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+    "tags": null
+  },
+  "amc_info": {
+    "amc": "HDFC",
+    "name": "HDFC Mutual Fund",
+    "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "phone": "022 – 66316333",
+    "aum": 967910.31235041,
+    "launch_date": "1999-12-09T18:30:00.447Z",
+    "email": "shareholders.relations@hdfcfund.com",
+    "rank": "2",
+    "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
+    "more_description": "<p>It is the largest asset management company (AMC) in the country (as per average assets under\nmanagement as on 31 December 2018 of Rs. 339,178 Crores</p>\n<p>Launched on the 10th of December, 1999, HDFC Asset Management Company Ltd. is among the\nmost popular fund houses in India. The company offers an extensive range of mutual funds and is\nhome to some of the most trustworthy fund managers who ensure that your hard-earned money is\ninvested in the right schemes. Whether you seek growth funds, income funds, or even retirement\nfunds, HDFC AMC Ltd. has it all.</p>\n\n<p>HDFC Mutual Fund has left no stone unturned to cater to investors from all walks of life. Be it any\nfinancial goal – long-term, short-term, retirement, tax-saving and so on – HDFC has that plan for you.</p>",
+    "sponsor": null,
+    "trustee": null,
+    "assets_managed": null,
+    "service_officer": null,
+    "vro_amc_id": null,
+    "vro_amc_short_name": null,
+    "vro_ceo": null,
+    "vro_cio": null,
+    "vro_city": null,
+    "vro_fax": null,
+    "vro_management_trustee": null,
+    "vro_pin": null,
+    "vro_website": "http://www.hdfcfund.com",
+    "vro_investor_relation_officer": null,
+    "vro_owner_type": null,
+    "vro_modified_ts": null,
+    "vro_row_number": null
+  },
+  "category_description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+  "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+  "description_text": "The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.",
+  "raw_text": "Fund Name: HDFC Small Cap Fund\nScheme Name: HDFC Small Cap Fund Direct Growth\nFund House: HDFC Mutual Fund\nAMC: HDFC\nCategory: Small Cap\nPlan: Direct · Growth\nNAV: 160.418 (as on 02-Sep-2026)\nExpense Ratio: 0.75%\nAUM: Rs 41679.0037 crore\nFund Manager: Chirag Setalvad\nBenchmark: BSE 250 SmallCap TRI\nBenchmark Name: BSE 250 SmallCap Total Return Index\nLaunch Date: 01-Jan-2013\nGroww Rating: 3/5\nExit Load: Exit load of 1% if redeemed within 1 year\nMinimum Investment: Rs 100\nMinimum SIP Investment: Rs 100\nPortfolio Turnover: 6%\nSIP Allowed: Yes\nLumpsum Allowed: Yes\nFund Description: The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.\nOverview: HDFC Small Cap Fund Direct Growth is Small Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 13 years, with three year return of 11.33. Risk is Very High\nCategory Description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.\nTax Impact: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.\n\n=== RETURNS ===\nCAGR returns (annualised unless noted):\n  1 Day: 0.01%\n  1 Week: 0.26%\n  1 Month: 0.14%\n  3 Months: 6.51%\n  6 Months: 5.21%\n  1 Year: 0.25%\n  3 Years: 11.33%\n  5 Years: 16.12%\n  10 Years: 17.69%\n  Since Inception: 16.3%\n\n=== SIP RETURNS ===\nSIP (Systematic Investment Plan) XIRR returns:\n  3 Months: 26.78%\n  6 Months: -1.6%\n  1 Year: -5.72%\n  3 Years: 5.11%\n  5 Years: 13.48%\n  10 Years: 18.15%\n\n=== RISK METRICS ===\n  Standard Deviation: 17.513600414128888%\n  Sharpe Ratio: 0.441\n  Beta: 0.778\n  Alpha: -0.588\n\n=== TOP HOLDINGS ===\n  Repo (Unspecified) — 9.94%\n  Firstsource Solutions Ltd (Industrials) — 4.24%\n  Aster DM Healthcare Ltd (Healthcare) — 3.89%\n  Gabriel India Ltd (Consumer Discretionary) — 3.34%\n  eClerx Services Ltd (Technology) — 2.85%\n  Bank Of Baroda (Financial) — 2.73%\n  Krishna Institute Of Medical Sciences Ltd (Healthcare) — 2.15%\n  Eris Lifesciences Ltd (Healthcare) — 2.1%\n  Fortis Healthcare Ltd (Healthcare) — 1.99%\n  Indian Bank (Financial) — 1.94%\n  The Federal Bank Ltd (Financial) — 1.79%\n  Home First Finance Company India Ltd (Financial) — 1.73%\n  Apar Industries Ltd (Diversified) — 1.62%\n  PVR Ltd (Consumer Discretionary) — 1.57%\n  Sonata Software Ltd (Technology) — 1.55%\n  The Great Eastern Shipping Company Ltd (Energy & Utilities) — 1.47%\n  Vijaya Diagnostic Centre Ltd (Healthcare) — 1.46%\n  Chalet Hotels Ltd (Consumer Discretionary) — 1.46%\n  Suprajit Engineering Ltd (Consumer Discretionary) — 1.43%\n  Kalpataru Power Transmission Ltd (Industrials) — 1.43%\n  Pearl Global Industries Ltd (Consumer Discretionary) — 1.42%\n  Sudarshan Chemical Industries Ltd (Materials) — 1.41%\n  Godrej Consumer Products Ltd (Consumer Staples) — 1.4%\n  Aditya Vision Ltd (Consumer Discretionary) — 1.35%\n  Power Mech Projects Ltd (Industrials) — 1.35%\n\n=== FUND MANAGERS ===\n  Dhruv Muchhal — since 2023-06-21T18:30:00.000Z\n    Education: Mr. Dhruv has done B.Com, CA and CFA\n    Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\n  Chirag Setalvad — since 2014-06-27T18:30:00.000Z\n    Education: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.\n    Experience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.\n\n=== KEY STATS ===\n  Fund Returns: 1Y: 0.25%, 3Y: 11.33%, 5Y: 16.12%, Since Inception: 16.3%\n  Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%\n  Rank Within Category: 1Y: 44%, 3Y: 34%, 5Y: 17%\n\n=== ANALYSIS ===\n  [Concern] 3Y and 5Y annualised returns lower than category average\n  [Strength] Lower expense ratio: 0.75%\n  [Strength] 1Y and 10Y annualised returns higher than category average"
+}

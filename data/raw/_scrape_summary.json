@@ -1,0 +1,42 @@
+{
+  "large_cap": {
+    "html_saved": "data/raw\\hdfc_large_cap.html",
+    "json_saved": "data/raw\\hdfc_large_cap.json",
+    "raw_text_length": 3925,
+    "fund_name": "HDFC Large Cap Fund",
+    "nav": 1231.045,
+    "has_next_data": true
+  },
+  "small_cap": {
+    "html_saved": "data/raw\\hdfc_small_cap.html",
+    "json_saved": "data/raw\\hdfc_small_cap.json",
+    "raw_text_length": 4032,
+    "fund_name": "HDFC Small Cap Fund",
+    "nav": 160.418,
+    "has_next_data": true
+  },
+  "flexi_cap": {
+    "html_saved": "data/raw\\hdfc_flexi_cap.html",
+    "json_saved": "data/raw\\hdfc_flexi_cap.json",
+    "raw_text_length": 4275,
+    "fund_name": "HDFC Flexi Cap Direct Plan-Growth",
+    "nav": 2271.077,
+    "has_next_data": true
+  },
+  "elss": {
+    "html_saved": "data/raw\\hdfc_elss.html",
+    "json_saved": "data/raw\\hdfc_elss.json",
+    "raw_text_length": 4184,
+    "fund_name": "HDFC ELSS - Tax Saver Fund",
+    "nav": 1493.488,
+    "has_next_data": true
+  },
+  "hybrid": {
+    "html_saved": "data/raw\\hdfc_hybrid.html",
+    "json_saved": "data/raw\\hdfc_hybrid.json",
+    "raw_text_length": 5362,
+    "fund_name": "HDFC Balanced Advantage Fund",
+    "nav": 568.286,
+    "has_next_data": true
+  }
+}

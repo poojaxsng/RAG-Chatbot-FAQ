@@ -1,0 +1,8 @@
+{
+  "num_chunks": 40,
+  "embedding_dim": 384,
+  "embeddings_file": "data/embeddings\\embeddings.npy",
+  "manifest_file": "data/embeddings\\manifest.json",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "normalized": true
+}

@@ -1,0 +1,623 @@
+{
+  "scheme_key": "elss",
+  "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+  "fund_name": "HDFC ELSS - Tax Saver Fund",
+  "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+  "fund_house": "HDFC Mutual Fund",
+  "amc": "HDFC",
+  "category": "Equity",
+  "sub_category": "ELSS",
+  "plan_type": "Direct",
+  "scheme_type": "Growth",
+  "nav": 1493.488,
+  "nav_date": "02-Sep-2026",
+  "expense_ratio": "1.19",
+  "aum": 16095.4454,
+  "fund_manager": "Vinay Kulkarni",
+  "benchmark": "NIFTY 500 TRI",
+  "benchmark_name": "NIFTY 500 Total Return Index",
+  "exit_load": "Nil",
+  "min_investment_amount": 500,
+  "min_sip_investment": 500,
+  "launch_date": "01-Jan-2013",
+  "allotment_date": "2013-01-01",
+  "portfolio_turnover": 32,
+  "groww_rating": 5,
+  "isin": "INF179K01YS4",
+  "scheme_code": "119060",
+  "description": "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.",
+  "meta_desc": "HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 14.28. Risk is Very High",
+  "sip_allowed": true,
+  "lumpsum_allowed": true,
+  "returns": {
+    "return1d": -0.5,
+    "return1w": -0.79,
+    "return1m": -0.35,
+    "return3m": 5.85,
+    "return6m": -2.59,
+    "return1y": -1.14,
+    "return3y": 14.28,
+    "return5y": 15.18,
+    "return10y": 13.5,
+    "return_default": 12.03
+  },
+  "sip_returns": {
+    "return3m": 20.235018374013613,
+    "return6m": 14.053102927058214,
+    "return1y": 1.113576462391725,
+    "return3y": 6.95676376361812,
+    "return5y": 13.614623697109234,
+    "return10y": 14.98190910246623
+  },
+  "holdings": [
+    {
+      "company_name": "ICICI Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 9.14,
+      "market_value": 1471.285
+    },
+    {
+      "company_name": "HDFC Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 7.72,
+      "market_value": 1241.929
+    },
+    {
+      "company_name": "Axis Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 6.11,
+      "market_value": 983.6
+    },
+    {
+      "company_name": "Maruti Suzuki India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 4.86,
+      "market_value": 782.87
+    },
+    {
+      "company_name": "Bharti Airtel Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 4.64,
+      "market_value": 747.0317
+    },
+    {
+      "company_name": "State Bank of India",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 4.47,
+      "market_value": 719.18
+    },
+    {
+      "company_name": "Kotak Mahindra Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 4.24,
+      "market_value": 683.025
+    },
+    {
+      "company_name": "SBI Life Insurance Company Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 3.49,
+      "market_value": 562.4647
+    },
+    {
+      "company_name": "HCL Technologies Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.99,
+      "market_value": 481.5168
+    },
+    {
+      "company_name": "Hyundai Motor India Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.71,
+      "market_value": 436.14
+    },
+    {
+      "company_name": "Reliance Industries Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.7,
+      "market_value": 434.8435
+    },
+    {
+      "company_name": "Zomato Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 2.11,
+      "market_value": 340.2563
+    },
+    {
+      "company_name": "Bajaj Auto Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.85,
+      "market_value": 296.9754
+    },
+    {
+      "company_name": "Tata Steel Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.77,
+      "market_value": 284.535
+    },
+    {
+      "company_name": "Britannia Industries Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.76,
+      "market_value": 283.9784
+    },
+    {
+      "company_name": "Power Grid Corporation of India Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.72,
+      "market_value": 276.2333
+    },
+    {
+      "company_name": "Infosys Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.69,
+      "market_value": 271.224
+    },
+    {
+      "company_name": "Larsen & Toubro Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.55,
+      "market_value": 248.6809
+    },
+    {
+      "company_name": "Apollo Hospitals Enterprise Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.53,
+      "market_value": 246.3175
+    },
+    {
+      "company_name": "JSW Steel Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.46,
+      "market_value": 234.3356
+    },
+    {
+      "company_name": "Dr. Lal Pathlabs Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.35,
+      "market_value": 217.1928
+    },
+    {
+      "company_name": "Interglobe Aviation Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.32,
+      "market_value": 212.011
+    },
+    {
+      "company_name": "Karur Vysya Bank Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.28,
+      "market_value": 205.47
+    },
+    {
+      "company_name": "Alkem Laboratories Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.25,
+      "market_value": 201.3025
+    },
+    {
+      "company_name": "Metropolis Healthcare Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.16,
+      "market_value": 186.384
+    },
+    {
+      "company_name": "Bosch Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.15,
+      "market_value": 184.8825
+    },
+    {
+      "company_name": "Cipla Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.13,
+      "market_value": 181.7205
+    },
+    {
+      "company_name": "Star Health & Allied Insurance Co. Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.12,
+      "market_value": 180.3
+    },
+    {
+      "company_name": "Hindustan Aeronautics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.08,
+      "market_value": 174.2438
+    },
+    {
+      "company_name": "Jubilant FoodWorks Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.08,
+      "market_value": 173.6567
+    },
+    {
+      "company_name": "United Spirits Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.07,
+      "market_value": 172.1506
+    },
+    {
+      "company_name": "ICICI Lombard General Insurance Company Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.05,
+      "market_value": 168.6058
+    },
+    {
+      "company_name": "Lupin Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.05,
+      "market_value": 169.05
+    },
+    {
+      "company_name": "Tech Mahindra Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.03,
+      "market_value": 165.13
+    },
+    {
+      "company_name": "Mphasis Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.02,
+      "market_value": 163.961
+    },
+    {
+      "company_name": "PB Fintech Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 1.02,
+      "market_value": 164.1538
+    },
+    {
+      "company_name": "Eicher Motors Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.88,
+      "market_value": 141.003
+    },
+    {
+      "company_name": "Godrej Consumer Products Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.87,
+      "market_value": 139.7605
+    },
+    {
+      "company_name": "ICICI Prudential Asset Management Company Ltd.",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.87,
+      "market_value": 140.2155
+    },
+    {
+      "company_name": "Havells India Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.84,
+      "market_value": 135.1185
+    },
+    {
+      "company_name": "Hindustan Unilever Ltd",
+      "sector_name": "Consumer Staples",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.78,
+      "market_value": 126.078
+    },
+    {
+      "company_name": "Mahindra & Mahindra Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.74,
+      "market_value": 118.9475
+    },
+    {
+      "company_name": "IIFL Wealth Management Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.71,
+      "market_value": 113.53
+    },
+    {
+      "company_name": "Repo",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "corpus_per": 0.68,
+      "market_value": 110.0986
+    },
+    {
+      "company_name": "Chalet Hotels Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.66,
+      "market_value": 105.9793
+    },
+    {
+      "company_name": "Crompton Greaves Consumer Electricals Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.57,
+      "market_value": 91.07
+    },
+    {
+      "company_name": "Birla Corporation Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.55,
+      "market_value": 89.05
+    },
+    {
+      "company_name": "Escorts Kubota Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.52,
+      "market_value": 83.0955
+    },
+    {
+      "company_name": "Westlife Development Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.47,
+      "market_value": 76.065
+    },
+    {
+      "company_name": "The Ramco Cements Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.46,
+      "market_value": 73.46
+    },
+    {
+      "company_name": "Bharat Electronics Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.43,
+      "market_value": 69.813
+    },
+    {
+      "company_name": "Net Current Assets",
+      "sector_name": "Unspecified",
+      "nature_name": "CASH",
+      "corpus_per": 0.42,
+      "market_value": 72.2461
+    },
+    {
+      "company_name": "Suven Pharmaceuticals Ltd",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.38,
+      "market_value": 60.5696
+    },
+    {
+      "company_name": "Popular Vehicles And Services Ltd.",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.33,
+      "market_value": 53.7125
+    },
+    {
+      "company_name": "Cyient Ltd",
+      "sector_name": "Technology",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.32,
+      "market_value": 50.7716
+    },
+    {
+      "company_name": "TeamLease Services Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.31,
+      "market_value": 50.2115
+    },
+    {
+      "company_name": "GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100",
+      "sector_name": "Entities",
+      "nature_name": "DEBT",
+      "corpus_per": 0.31,
+      "market_value": 50.688
+    },
+    {
+      "company_name": "Delhivery Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.3,
+      "market_value": 48.195
+    },
+    {
+      "company_name": "Anthem Biosciences Ltd.",
+      "sector_name": "Healthcare",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.25,
+      "market_value": 40.0213
+    },
+    {
+      "company_name": "Bajaj Electricals Ltd",
+      "sector_name": "Consumer Discretionary",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.18,
+      "market_value": 28.3863
+    },
+    {
+      "company_name": "Tata Motors Ltd",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.16,
+      "market_value": 26.208
+    },
+    {
+      "company_name": "JK Lakshmi Cement Ltd",
+      "sector_name": "Materials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.13,
+      "market_value": 21.5214
+    },
+    {
+      "company_name": "Medi Assist Healthcare Services Ltd.",
+      "sector_name": "Industrials",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.1,
+      "market_value": 15.3054
+    },
+    {
+      "company_name": "SBI Funds Management Ltd",
+      "sector_name": "Financial",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.06,
+      "market_value": 9.3684
+    },
+    {
+      "company_name": "JSW Energy Ltd",
+      "sector_name": "Energy & Utilities",
+      "nature_name": "EQUITY",
+      "corpus_per": 0.05,
+      "market_value": 8.3188
+    }
+  ],
+  "fund_managers": [
+    {
+      "person_name": "Amar Kalkundrikar",
+      "date_from": "2025-12-07T18:30:00.000Z",
+      "education": "Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School.",
+      "experience": "Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF."
+    },
+    {
+      "person_name": "Dhruv Muchhal",
+      "date_from": "2023-06-21T18:30:00.000Z",
+      "education": "Mr. Dhruv has done B.Com, CA and CFA",
+      "experience": "Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells"
+    }
+  ],
+  "stats": [
+    {
+      "type": "FUND_RETURN",
+      "title": "Fund Returns",
+      "stat_1y": -1.14,
+      "stat_3y": 14.28,
+      "stat_5y": 15.18,
+      "stat_all": 12.03
+    },
+    {
+      "type": "CATEGORY_AVG_RETURN",
+      "title": "Category Average",
+      "stat_1y": 2.4219756725166213,
+      "stat_3y": 16.353167598441352,
+      "stat_5y": 16.480243926416804,
+      "stat_all": null
+    },
+    {
+      "type": "RANK_WITHIN_CATEGORY",
+      "title": "Rank Within Category",
+      "stat_1y": 34,
+      "stat_3y": 10,
+      "stat_5y": 4,
+      "stat_all": null
+    }
+  ],
+  "analysis": [
+    {
+      "analysis_type": "CONS",
+      "analysis_subject": "c_return_analysis",
+      "analysis_desc": "Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y"
+    },
+    {
+      "analysis_type": "PROS",
+      "analysis_subject": "exit_load",
+      "analysis_desc": "Exit load is zero"
+    },
+    {
+      "analysis_type": "CONS",
+      "analysis_subject": "lock_in",
+      "analysis_desc": "Lock-in period: 3Y"
+    },
+    {
+      "analysis_type": "PROS",
+      "analysis_subject": "expense_analysis",
+      "analysis_desc": "Lower expense ratio: 1.19%"
+    },
+    {
+      "analysis_type": "PROS",
+      "analysis_subject": "alpha_analysis",
+      "analysis_desc": "Higher alpha: 3.5 \nThe fund has generated returns higher than benchmark - NIFTY 500 Total Return Index - in the last 3Y "
+    }
+  ],
+  "lock_in": {
+    "years": 3,
+    "months": 0,
+    "days": 0
+  },
+  "category_info": {
+    "category": "Equity",
+    "category_helper_text": "Invests in stocks as per Contrarian investment strategy",
+    "definition": "",
+    "sub_type": "Contra",
+    "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+    "tags": null
+  },
+  "amc_info": {
+    "amc": "HDFC",
+    "name": "HDFC Mutual Fund",
+    "address": "\"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "phone": "022 – 66316333",
+    "aum": 967910.31235041,
+    "launch_date": "1999-12-09T18:30:00.651Z",
+    "email": "shareholders.relations@hdfcfund.com",
+    "rank": "2",
+    "description": "HDFC Mutual Fund started their mutual fund on 30/06/2000 and its managing total assets of ₹2,70,046 Cr. Its ranked at 2 as per total assets at end of 30th Sep 2017.",
+    "more_description": "<p>It is the largest asset management company (AMC) in the country (as per average assets under\nmanagement as on 31 December 2018 of Rs. 339,178 Crores</p>\n<p>Launched on the 10th of December, 1999, HDFC Asset Management Company Ltd. is among the\nmost popular fund houses in India. The company offers an extensive range of mutual funds and is\nhome to some of the most trustworthy fund managers who ensure that your hard-earned money is\ninvested in the right schemes. Whether you seek growth funds, income funds, or even retirement\nfunds, HDFC AMC Ltd. has it all.</p>\n\n<p>HDFC Mutual Fund has left no stone unturned to cater to investors from all walks of life. Be it any\nfinancial goal – long-term, short-term, retirement, tax-saving and so on – HDFC has that plan for you.</p>",
+    "sponsor": null,
+    "trustee": null,
+    "assets_managed": null,
+    "service_officer": null,
+    "vro_amc_id": null,
+    "vro_amc_short_name": null,
+    "vro_ceo": null,
+    "vro_cio": null,
+    "vro_city": null,
+    "vro_fax": null,
+    "vro_management_trustee": null,
+    "vro_pin": null,
+    "vro_website": "http://www.hdfcfund.com",
+    "vro_investor_relation_officer": null,
+    "vro_owner_type": null,
+    "vro_modified_ts": null,
+    "vro_row_number": null
+  },
+  "category_description": "Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.",
+  "tax_impact": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+  "description_text": "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.",
+  "raw_text": "Fund Name: HDFC ELSS - Tax Saver Fund\nScheme Name: HDFC ELSS Tax Saver Fund Direct Plan Growth\nFund House: HDFC Mutual Fund\nAMC: HDFC\nCategory: ELSS\nPlan: Direct · Growth\nNAV: 1493.488 (as on 02-Sep-2026)\nExpense Ratio: 1.19%\nAUM: Rs 16095.4454 crore\nFund Manager: Vinay Kulkarni\nBenchmark: NIFTY 500 TRI\nBenchmark Name: NIFTY 500 Total Return Index\nLaunch Date: 01-Jan-2013\nGroww Rating: 5/5\nExit Load: Nil\nMinimum Investment: Rs 500\nMinimum SIP Investment: Rs 500\nPortfolio Turnover: 32%\nSIP Allowed: Yes\nLumpsum Allowed: Yes\nFund Description: The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.\nOverview: HDFC ELSS Tax Saver Fund Direct Plan Growth is ELSS Equity mutual fund with risk-reward rating of 5/10. It has track record of 13 years, with three year return of 14.28. Risk is Very High\nCategory Description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.\nTax Impact: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.\nLock-in Period: 3 years 0 months\n\n=== RETURNS ===\nCAGR returns (annualised unless noted):\n  1 Day: -0.5%\n  1 Week: -0.79%\n  1 Month: -0.35%\n  3 Months: 5.85%\n  6 Months: -2.59%\n  1 Year: -1.14%\n  3 Years: 14.28%\n  5 Years: 15.18%\n  10 Years: 13.5%\n  Since Inception: 12.03%\n\n=== SIP RETURNS ===\nSIP (Systematic Investment Plan) XIRR returns:\n  3 Months: 20.24%\n  6 Months: 14.05%\n  1 Year: 1.11%\n  3 Years: 6.96%\n  5 Years: 13.61%\n  10 Years: 14.98%\n\n=== RISK METRICS ===\n  Standard Deviation: 13.505017920561162%\n  Sharpe Ratio: 0.683\n  Beta: 0.857\n  Alpha: 3.501\n\n=== TOP HOLDINGS ===\n  ICICI Bank Ltd (Financial) — 9.14%\n  HDFC Bank Ltd (Financial) — 7.72%\n  Axis Bank Ltd (Financial) — 6.11%\n  Maruti Suzuki India Ltd (Consumer Discretionary) — 4.86%\n  Bharti Airtel Ltd (Technology) — 4.64%\n  State Bank of India (Financial) — 4.47%\n  Kotak Mahindra Bank Ltd (Financial) — 4.24%\n  SBI Life Insurance Company Ltd (Financial) — 3.49%\n  HCL Technologies Ltd (Technology) — 2.99%\n  Hyundai Motor India Ltd. (Consumer Discretionary) — 2.71%\n  Reliance Industries Ltd (Energy & Utilities) — 2.7%\n  Zomato Ltd (Technology) — 2.11%\n  Bajaj Auto Ltd (Consumer Discretionary) — 1.85%\n  Tata Steel Ltd (Materials) — 1.77%\n  Britannia Industries Ltd (Consumer Staples) — 1.76%\n  Power Grid Corporation of India Ltd (Energy & Utilities) — 1.72%\n  Infosys Ltd (Technology) — 1.69%\n  Larsen & Toubro Ltd (Industrials) — 1.55%\n  Apollo Hospitals Enterprise Ltd (Healthcare) — 1.53%\n  JSW Steel Ltd (Materials) — 1.46%\n  Dr. Lal Pathlabs Ltd (Healthcare) — 1.35%\n  Interglobe Aviation Ltd (Industrials) — 1.32%\n  Karur Vysya Bank Ltd (Financial) — 1.28%\n  Alkem Laboratories Ltd (Healthcare) — 1.25%\n  Metropolis Healthcare Ltd (Healthcare) — 1.16%\n\n=== FUND MANAGERS ===\n  Amar Kalkundrikar — since 2025-12-07T18:30:00.000Z\n    Education: Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School.\n    Experience: Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF.\n  Dhruv Muchhal — since 2023-06-21T18:30:00.000Z\n    Education: Mr. Dhruv has done B.Com, CA and CFA\n    Experience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells\n\n=== KEY STATS ===\n  Fund Returns: 1Y: -1.14%, 3Y: 14.28%, 5Y: 15.18%, Since Inception: 12.03%\n  Category Average: 1Y: 2.4219756725166213%, 3Y: 16.353167598441352%, 5Y: 16.480243926416804%\n  Rank Within Category: 1Y: 34%, 3Y: 10%, 5Y: 4%\n\n=== ANALYSIS ===\n  [Concern] Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y\n  [Strength] Exit load is zero\n  [Concern] Lock-in period: 3Y\n  [Strength] Lower expense ratio: 1.19%\n  [Strength] Higher alpha: 3.5 \nThe fund has generated returns higher than benchmark - NIFTY 500 Total Return Index - in the last 3Y "
+}

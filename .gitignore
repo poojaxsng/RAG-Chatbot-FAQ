@@ -1,0 +1,35 @@
+# Environment / secrets
+.env
+*.env
+.env.*
+
+# Unrelated project in this workspace folder
+zomato-lite/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Data artifacts (ignored by default; uncomment to track)
+# data/raw/*.html
+# data/raw/*.json
+
+# Vector DB
+data/vectordb/
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Test / logs
+*.log
