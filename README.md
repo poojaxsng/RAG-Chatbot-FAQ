@@ -2,7 +2,7 @@
 
 A retrieval-augmented generation (RAG) FAQ chatbot that answers questions about **5 HDFC Mutual Fund schemes** using only their public **Groww.in** pages as the knowledge source.
 
-- **Live app (Streamlit Community Cloud):** *(add your deployed URL here, e.g. `https://your-app-name.streamlit.app`)*
+- **Live app (Streamlit Community Cloud):** https://groww-rag-chatbot-faq.streamlit.app/
 - **Local app:** `http://localhost:8501`
 
 > ⚠️ The chatbot is for **informational purposes only** and does **not** provide financial advice.
