@@ -28,12 +28,13 @@ st.markdown(
     .block-container {{ padding-top: 1.5rem; padding-bottom: 3rem; max-width: 760px; }}
     [data-testid="stSidebar"] {{ display: none; }}
 
-    .chat-header {{ display: flex; align-items: center; gap: 12px; padding: 6px 0 12px; }}
+    [data-testid="stHtml"], .stHtml {{ overflow: visible; }}
+    .chat-header {{ display: flex; align-items: center; gap: 12px; padding: 6px 0 12px; overflow: visible; }}
     .chat-logo {{
-        width: 42px; height: 42px; border-radius: 10px; flex: 0 0 42px;
+        width: 42px; height: 42px; border-radius: 10px; flex: 0 0 auto;
         background: {GROWW_GREEN}; color: #fff;
-        display: inline-flex; align-items: center; justify-content: center;
-        font-size: 22px; font-weight: 700; line-height: 42px;
+        display: flex; align-items: center; justify-content: center;
+        font-size: 20px; font-weight: 700; line-height: 1; overflow: visible;
     }}
     .chat-title {{ color: {GROWW_DARK}; font-size: 1.5rem; font-weight: 700; margin: 0; line-height: 1.25; }}
     .chat-subtitle {{ color: #667085; font-size: 0.9rem; margin: 1px 0 0 0; line-height: 1.35; }}
