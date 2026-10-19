@@ -6,6 +6,10 @@
 # Streamlit secrets (real key) - keep the .example file tracked
 .streamlit/secrets.toml
 
+# Local key helper files (contain real API keys) - never commit
+keys_here.txt
+paste_keys.py
+
 # Unrelated project in this workspace folder
 zomato-lite/
 
