@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Riff Topic",
+  "description": "A climate & environment practice topic with a sourced Know-this card. Content is authored and source-checked by the team; it is educational information, not professional advice.",
+  "type": "array",
+  "items": { "$ref": "#/definitions/Topic" },
+  "definitions": {
+    "Topic": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "category", "mode", "difficulty", "prompt", "card"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "category": {
+          "type": "string",
+          "enum": [
+            "Climate Science & Basics",
+            "Global Climate Policy & COP",
+            "India's Climate Policy & Missions",
+            "Air Quality & Pollution",
+            "Water, Rivers & Groundwater",
+            "Forests, Wildlife & Biodiversity",
+            "Waste & Circular Economy",
+            "Energy & Renewables",
+            "Oceans, Coasts & Climate Disasters",
+            "Food, Agriculture & Land",
+            "Cities, Transport & Health",
+            "Everyday Climate Action"
+          ]
+        },
+        "mode": { "type": "string", "enum": ["off-the-cuff", "deep-research"] },
+        "difficulty": { "type": "string", "enum": ["everyday", "mixed", "technical"] },
+        "prompt": { "type": "string", "minLength": 1 },
+        "hook": { "type": "string" },
+        "card": { "$ref": "#/definitions/KnowCard" }
+      }
+    },
+    "KnowCard": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["oneLiner", "keyPoints", "framework", "whatYouCanDo", "caveats", "sources", "asOf"],
+      "properties": {
+        "oneLiner": { "type": "string", "minLength": 1 },
+        "keyPoints": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+        "framework": { "type": "array", "minItems": 1, "items": { "$ref": "#/definitions/FrameworkRef" } },
+        "whatYouCanDo": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+        "caveats": { "type": "string", "minLength": 1 },
+        "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/definitions/SourceRef" } },
+        "asOf": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+      }
+    },
+    "FrameworkRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "detail", "gloss"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "detail": { "type": "string", "minLength": 1 },
+        "gloss": { "type": "string", "minLength": 1 }
+      }
+    },
+    "SourceRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["title", "url"],
+      "properties": {
+        "title": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "pattern": "^https?://" }
+      }
+    }
+  }
+}

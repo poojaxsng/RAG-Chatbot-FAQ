@@ -1,0 +1,162 @@
+[
+  {
+    "id": "forest-cover-01",
+    "category": "Forests, Wildlife & Biodiversity",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain how India measures forest cover and why the numbers need context.",
+    "hook": "A map is not a tree.",
+    "card": {
+      "oneLiner": "India's forest and tree cover is assessed every two years by the Forest Survey of India, and it distinguishes satellite-observed forest cover from land that is legally a forest.",
+      "keyPoints": [
+        "Changes are published in a biennial assessment report.",
+        "Forest cover is grouped by canopy density.",
+        "Tree cover outside forests is counted separately.",
+        "A rise in cover can coexist with a loss of quality forest."
+      ],
+      "framework": [
+        { "name": "Forest Survey of India", "detail": "India State of Forest Report", "gloss": "Biennial national assessment of forest and tree cover." },
+        { "name": "Ministry of Environment, Forest and Climate Change", "detail": "Forest policy", "gloss": "National forest policy and reporting." }
+      ],
+      "whatYouCanDo": [
+        "Distinguish 'forest cover' from 'recorded forest area'.",
+        "Look at density classes, not just the headline total.",
+        "Read the state and district tables for your area."
+      ],
+      "caveats": "Educational information, not professional advice. Methodology and definitions matter when comparing years.",
+      "sources": [
+        { "title": "Forest Survey of India", "url": "https://fsi.nic.in/" },
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "forest-ecosystem-services-02",
+    "category": "Forests, Wildlife & Biodiversity",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain the ecosystem services that forests provide.",
+    "hook": "Forests are infrastructure you can breathe.",
+    "card": {
+      "oneLiner": "Forests store carbon, regulate water, cool the land and host biodiversity, providing services worth far more than their timber.",
+      "keyPoints": [
+        "Trees absorb and store carbon dioxide.",
+        "Forests slow runoff and protect watersheds.",
+        "They moderate local temperature and humidity.",
+        "They support wildlife and rural livelihoods."
+      ],
+      "framework": [
+        { "name": "IPCC AR6", "detail": "Forests and land", "gloss": "Forests as carbon sinks and their role in the land sector." },
+        { "name": "Ministry of Environment, Forest and Climate Change", "detail": "Forest governance", "gloss": "National forest policy and conservation." }
+      ],
+      "whatYouCanDo": [
+        "Value forests for services, not just land area.",
+        "Support community forest management.",
+        "Reduce demand that drives deforestation."
+      ],
+      "caveats": "Educational information, not professional advice. Valuing ecosystem services involves assumptions.",
+      "sources": [
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" },
+        { "title": "IPCC", "url": "https://www.ipcc.ch/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "forest-tiger-03",
+    "category": "Forests, Wildlife & Biodiversity",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain Project Tiger and how protecting a keystone species protects a forest.",
+    "hook": "Saving one big cat saves a whole forest.",
+    "card": {
+      "oneLiner": "Project Tiger created a network of tiger reserves that protect the tiger and the ecosystem it depends on, from prey to prey's food.",
+      "keyPoints": [
+        "It began in 1973 and now covers dozens of reserves.",
+        "Reserves have protected cores and buffer zones.",
+        "The tiger acts as an umbrella species for other wildlife.",
+        "Relocation and coexistence with communities are recurring issues."
+      ],
+      "framework": [
+        { "name": "Project Tiger", "detail": "Launched 1973", "gloss": "National tiger conservation programme and reserves." },
+        { "name": "Wild Life (Protection) Act, 1972", "detail": "Protected areas", "gloss": "Legal framework for national parks and sanctuaries." }
+      ],
+      "whatYouCanDo": [
+        "Support reserves as ecosystems, not tourist attractions.",
+        "Respect buffer-zone communities and their rights.",
+        "Follow official tiger estimation reports."
+      ],
+      "caveats": "Educational information, not professional advice. Conservation approaches and outcomes vary by region.",
+      "sources": [
+        { "title": "National Tiger Conservation Authority", "url": "https://projecttiger.nic.in/" },
+        { "title": "Wildlife Institute of India", "url": "https://wii.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "forest-wetlands-04",
+    "category": "Forests, Wildlife & Biodiversity",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain why wetlands matter and how they are protected.",
+    "hook": "Wetlands are the kidneys of the landscape.",
+    "card": {
+      "oneLiner": "Wetlands filter water, absorb floods and support wildlife, and Ramsar sites and national rules protect them from filling and encroachment.",
+      "keyPoints": [
+        "They store floodwater and recharge groundwater.",
+        "They filter pollutants and support rich biodiversity.",
+        "Designated Ramsar sites have international recognition.",
+        "Rules regulate activities such as filling and construction."
+      ],
+      "framework": [
+        { "name": "Ramsar Convention", "detail": "Wetlands of international importance", "gloss": "Global treaty on wetland conservation." },
+        { "name": "Wetlands Rules, 2017", "detail": "Conservation and management", "gloss": "National rules protecting wetlands and their boundaries." }
+      ],
+      "whatYouCanDo": [
+        "Identify wetlands in your city or district.",
+        "Oppose dumping and construction in wetland areas.",
+        "Support community-led restoration and monitoring."
+      ],
+      "caveats": "Educational information, not professional advice. Wetland protection varies in how it is enforced.",
+      "sources": [
+        { "title": "Ramsar Convention", "url": "https://www.ramsar.org/" },
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "forest-invasive-05",
+    "category": "Forests, Wildlife & Biodiversity",
+    "mode": "deep-research",
+    "difficulty": "technical",
+    "prompt": "Explain invasive alien species and why they threaten native biodiversity.",
+    "hook": "Some plants and animals are invaders.",
+    "card": {
+      "oneLiner": "Invasive alien species spread quickly, outcompete native species and can degrade forests and grasslands, so managing them is a conservation priority.",
+      "keyPoints": [
+        "They arrive outside their natural range, often through trade or transport.",
+        "They spread fast and have few natural controls in the new range.",
+        "They can change fire, water and soil dynamics.",
+        "Management is costly and rarely fully successful."
+      ],
+      "framework": [
+        { "name": "Convention on Biological Diversity", "detail": "Invasive alien species", "gloss": "Global commitments to prevent and control invasions." },
+        { "name": "Ministry of Environment, Forest and Climate Change", "detail": "Biodiversity programmes", "gloss": "National biodiversity conservation." }
+      ],
+      "whatYouCanDo": [
+        "Avoid releasing pets or plants into the wild.",
+        "Support native species in gardens and restoration.",
+        "Report unusual invasive growth to forest officials."
+      ],
+      "caveats": "Educational information, not professional advice. Species considered invasive vary by region.",
+      "sources": [
+        { "title": "Convention on Biological Diversity", "url": "https://www.cbd.int/" },
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  }
+]

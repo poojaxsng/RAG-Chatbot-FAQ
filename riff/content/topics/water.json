@@ -1,0 +1,161 @@
+[
+  {
+    "id": "water-groundwater-01",
+    "category": "Water, Rivers & Groundwater",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain why India's groundwater is under stress.",
+    "hook": "The invisible resource is the one running out.",
+    "card": {
+      "oneLiner": "India is the world's largest user of groundwater, and in many districts water is being pumped out faster than rain can refill it.",
+      "keyPoints": [
+        "Extraction outpaces natural recharge in stressed areas.",
+        "Aquifers are classified from safe to over-exploited.",
+        "Cheap pumping and cropping patterns drive demand.",
+        "Recharge and demand management can slow depletion."
+      ],
+      "framework": [
+        { "name": "Central Ground Water Board", "detail": "Dynamic groundwater assessment", "gloss": "Periodic classification of blocks as safe, semi-critical or over-exploited." }
+      ],
+      "whatYouCanDo": [
+        "Check your district's groundwater category.",
+        "Reward recharge structures and efficient irrigation.",
+        "Reduce water-intensive choices where alternatives exist."
+      ],
+      "caveats": "Educational information, not professional advice. Assessment units and categories are revised periodically.",
+      "sources": [
+        { "title": "Central Ground Water Board", "url": "https://cgwb.gov.in/" },
+        { "title": "Ministry of Jal Shakti", "url": "https://jalshakti-dowr.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "water-river-pollution-02",
+    "category": "Water, Rivers & Groundwater",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain how river pollution is measured and cleaned up.",
+    "hook": "A river's health has a number.",
+    "card": {
+      "oneLiner": "River water quality is tracked with indicators such as biochemical oxygen demand and faecal coliform, and clean-up programmes target untreated sewage.",
+      "keyPoints": [
+        "High organic load and bacteria signal sewage pollution.",
+        "Untreated sewage is the biggest source in most rivers.",
+        "Treatment plants and interception reduce pollution.",
+        "Restoring flow helps rivers dilute and recover."
+      ],
+      "framework": [
+        { "name": "Central Pollution Control Board", "detail": "Water quality monitoring", "gloss": "National monitoring of river water quality." },
+        { "name": "Namami Gange Programme", "detail": "River rejuvenation", "gloss": "Mission to clean and revive the Ganga." }
+      ],
+      "whatYouCanDo": [
+        "Find the monitoring station nearest you.",
+        "Support sewage treatment and connection of households.",
+        "Reduce chemical runoff from homes and farms."
+      ],
+      "caveats": "Educational information, not professional advice. Water quality varies by season and stretch.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" },
+        { "title": "National Mission for Clean Ganga", "url": "https://nmcg.nic.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "water-harvesting-03",
+    "category": "Water, Rivers & Groundwater",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain rainwater harvesting and why cities mandate it.",
+    "hook": "Catch it where it falls.",
+    "card": {
+      "oneLiner": "Rainwater harvesting captures roof or surface runoff for storage or for recharging groundwater, easing scarcity and urban flooding.",
+      "keyPoints": [
+        "Harvesting can store water or recharge an aquifer.",
+        "Many local building rules require it for new construction.",
+        "It cuts runoff that would otherwise flood streets.",
+        "Systems need cleaning and maintenance to keep working."
+      ],
+      "framework": [
+        { "name": "Model Building Bye-Laws", "detail": "Rainwater harvesting", "gloss": "Provisions adopted by many states and cities." },
+        { "name": "Ministry of Housing and Urban Affairs", "detail": "Urban water guidance", "gloss": "Guidance on urban water management." }
+      ],
+      "whatYouCanDo": [
+        "Install a simple rooftop harvesting or recharge system.",
+        "Maintain filters and first-flush diversion.",
+        "Check your local byelaws for requirements and rebates."
+      ],
+      "caveats": "Educational information, not professional advice. Design depends on rainfall, soil and space.",
+      "sources": [
+        { "title": "Central Ground Water Board", "url": "https://cgwb.gov.in/" },
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "water-urban-flooding-04",
+    "category": "Water, Rivers & Groundwater",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain why urban flooding is getting worse.",
+    "hook": "Too much concrete, too little drainage.",
+    "card": {
+      "oneLiner": "Urban flooding results from heavy rain falling on paved surfaces with inadequate drainage, made worse by lost wetlands and building on floodplains.",
+      "keyPoints": [
+        "Concrete stops water soaking into the ground.",
+        "Drains are often undersized or blocked.",
+        "Encroached lakes and wetlands can no longer absorb water.",
+        "Climate change brings heavier short bursts of rain."
+      ],
+      "framework": [
+        { "name": "National Disaster Management Authority", "detail": "Urban flooding guidelines", "gloss": "Guidance to cities on reducing flood risk." },
+        { "name": "Ministry of Housing and Urban Affairs", "detail": "Stormwater management", "gloss": "Urban drainage and water-sensitive planning." }
+      ],
+      "whatYouCanDo": [
+        "Keep drains clear and avoid dumping waste in them.",
+        "Protect local ponds, lakes and green spaces.",
+        "Support permeable surfaces and water-sensitive design."
+      ],
+      "caveats": "Educational information, not professional advice. Flood risk depends on local geography and infrastructure.",
+      "sources": [
+        { "title": "National Disaster Management Authority", "url": "https://ndma.gov.in/" },
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "water-drinking-safe-05",
+    "category": "Water, Rivers & Groundwater",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain how safe drinking water is ensured and what to do when it is contaminated.",
+    "hook": "Access is not the same as safety.",
+    "card": {
+      "oneLiner": "Drinking-water safety depends on protected sources, treatment and testing, and contamination can be reported and investigated.",
+      "keyPoints": [
+        "Source protection and treatment sit at the heart of safety.",
+        "Some areas face natural contaminants such as arsenic and fluoride.",
+        "Routine testing checks for harmful bacteria and chemicals.",
+        "Complaints about unsafe water can be taken to local authorities."
+      ],
+      "framework": [
+        { "name": "Bureau of Indian Standards", "detail": "Drinking water specification", "gloss": "The national standard for drinking water quality." },
+        { "name": "Jal Jeevan Mission", "detail": "Tap water supply", "gloss": "Programme to provide functional household tap connections." }
+      ],
+      "whatYouCanDo": [
+        "Ask for test results if you suspect contamination.",
+        "Use boiling or approved filters where supply is unsafe.",
+        "Report quality problems to the local body or jal board."
+      ],
+      "caveats": "Educational information, not professional advice. Water quality varies and should be tested locally.",
+      "sources": [
+        { "title": "Ministry of Jal Shakti", "url": "https://jalshakti-ddws.gov.in/" },
+        { "title": "Bureau of Indian Standards", "url": "https://www.bis.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  }
+]

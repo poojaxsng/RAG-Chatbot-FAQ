@@ -1,0 +1,160 @@
+[
+  {
+    "id": "air-aqi-01",
+    "category": "Air Quality & Pollution",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain the Air Quality Index and what the numbers mean.",
+    "hook": "One number, six categories, real health stakes.",
+    "card": {
+      "oneLiner": "The Air Quality Index condenses pollutant levels into a single 0-500 score, with categories that run from good to severe.",
+      "keyPoints": [
+        "There are six categories, each with a colour code.",
+        "The index reports the worst-performing pollutant as the dominant one.",
+        "Particulate matter usually drives the worst readings.",
+        "Each band carries health advice for the public."
+      ],
+      "framework": [
+        { "name": "Central Pollution Control Board", "detail": "National AQI", "gloss": "Method for computing the index and its categories." }
+      ],
+      "whatYouCanDo": [
+        "Check the AQI before outdoor exercise.",
+        "Note which pollutant is dominant, not just the number.",
+        "Use masks and air purifiers sensibly on severe days."
+      ],
+      "caveats": "Educational information, not professional advice. The index is a communication tool, not a full health assessment.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "air-pm25-02",
+    "category": "Air Quality & Pollution",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain what PM2.5 is and why it is so harmful.",
+    "hook": "The smallest particles do the most damage.",
+    "card": {
+      "oneLiner": "PM2.5 are particles smaller than 2.5 microns that penetrate deep into the lungs and bloodstream, making them the most damaging common air pollutant.",
+      "keyPoints": [
+        "Their small size lets them bypass the body's filters.",
+        "They come from combustion, industry, vehicles and dust.",
+        "Long-term exposure is linked to heart and lung disease.",
+        "Weather can concentrate or disperse them."
+      ],
+      "framework": [
+        { "name": "Central Pollution Control Board", "detail": "PM2.5 monitoring", "gloss": "National standards and monitoring of fine particulate matter." },
+        { "name": "WHO Air Quality Guidelines", "detail": "2021 update", "gloss": "Health-based guideline levels for particulate matter." }
+      ],
+      "whatYouCanDo": [
+        "Track PM2.5 separately from the composite index.",
+        "Reduce exposure on high days, especially for children and the elderly.",
+        "Support clean fuel and transport measures near you."
+      ],
+      "caveats": "Educational information, not professional advice. Health effects depend on exposure, duration and individual factors.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" },
+        { "title": "World Health Organization — Air Quality", "url": "https://www.who.int/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "air-winter-smog-03",
+    "category": "Air Quality & Pollution",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain why north India's air quality collapses in winter.",
+    "hook": "It is never just one cause.",
+    "card": {
+      "oneLiner": "Winter smog in north India comes from a mix of vehicle and industrial emissions, crop-residue burning, dust, and weather that traps pollution near the ground.",
+      "keyPoints": [
+        "Cool air near the surface traps warmer air and pollutants above.",
+        "Low winds let pollution accumulate over days.",
+        "Crop-residue burning adds smoke in the harvest season.",
+        "Pollution travels across state boundaries."
+      ],
+      "framework": [
+        { "name": "Central Pollution Control Board", "detail": "Air quality data", "gloss": "Monitoring of pollutants across the region." },
+        { "name": "India Meteorological Department", "detail": "Meteorology", "gloss": "Wind and temperature conditions that affect dispersion." }
+      ],
+      "whatYouCanDo": [
+        "Understand that stubble burning is one source among several.",
+        "Support regional, not just city-level, action.",
+        "Watch official forecasts during the winter months."
+      ],
+      "caveats": "Educational information, not professional advice. Source apportionment varies between cities and years.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" },
+        { "title": "India Meteorological Department", "url": "https://mausam.imd.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "air-stubble-04",
+    "category": "Air Quality & Pollution",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain crop-residue burning and what can replace it.",
+    "hook": "Banning burning is easier than solving it.",
+    "card": {
+      "oneLiner": "Farmers often burn crop residue to clear fields quickly, and the alternatives are machines and practices that manage residue without fire.",
+      "keyPoints": [
+        "Burning is quick and cheap before the next sowing.",
+        "Residue-management machines can sow through leftover stubble.",
+        "Diversified cropping and residue markets reduce the need to burn.",
+        "Incentives and timing shape whether farmers switch."
+      ],
+      "framework": [
+        { "name": "Commission for Air Quality Management", "detail": "Directions", "gloss": "Regional directions on crop-residue burning." },
+        { "name": "Crop Residue Management scheme", "detail": "Support for machinery", "gloss": "Subsidies for machines that manage stubble." }
+      ],
+      "whatYouCanDo": [
+        "Recognise that farmers face a short window to sow.",
+        "Support residue-management machinery and markets.",
+        "Avoid blaming one group for a regional problem."
+      ],
+      "caveats": "Educational information, not professional advice. Adoption depends on cost, subsidies and local conditions.",
+      "sources": [
+        { "title": "Commission for Air Quality Management", "url": "https://caqm.nic.in/" },
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "air-caqm-05",
+    "category": "Air Quality & Pollution",
+    "mode": "deep-research",
+    "difficulty": "technical",
+    "prompt": "Explain the Commission for Air Quality Management and its graded response.",
+    "hook": "One body now coordinates the whole region.",
+    "card": {
+      "oneLiner": "The Commission for Air Quality Management coordinates air-quality action across Delhi-NCR and neighbouring states, triggering graded restrictions as pollution worsens.",
+      "keyPoints": [
+        "It covers a region, not a single city.",
+        "A graded response escalates restrictions stage by stage.",
+        "Measures range from dust control to curbs on vehicles and construction.",
+        "Enforcement across state boundaries remains a challenge."
+      ],
+      "framework": [
+        { "name": "Commission for Air Quality Management Act, 2021", "detail": "Mandate", "gloss": "Statutory body for air quality in the NCR region." },
+        { "name": "Graded Response Action Plan", "detail": "GRAP stages", "gloss": "Pre-defined measures tied to pollution levels." }
+      ],
+      "whatYouCanDo": [
+        "Know which GRAP stage is in force where you live.",
+        "Report violations on official channels.",
+        "Understand that lasting improvement needs year-round action."
+      ],
+      "caveats": "Educational information, not professional advice. The graded plan is revised over time.",
+      "sources": [
+        { "title": "Commission for Air Quality Management", "url": "https://caqm.nic.in/" },
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  }
+]

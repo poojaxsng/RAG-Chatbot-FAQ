@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ocean-sea-level-01",
+    "category": "Oceans, Coasts & Climate Disasters",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain why sea level is rising and what it means for India's coast.",
+    "hook": "Warm water takes up more space.",
+    "card": {
+      "oneLiner": "Sea level rises because ocean water expands as it warms and because land ice is melting, threatening India's densely populated coasts.",
+      "keyPoints": [
+        "Thermal expansion and ice melt both raise the sea.",
+        "Local land sinking can add to relative sea-level rise.",
+        "Coastal cities face flooding and saltwater intrusion.",
+        "Mangroves and coastal planning reduce risk."
+      ],
+      "framework": [
+        { "name": "IPCC AR6", "detail": "Working Group I, sea level", "gloss": "Projected sea-level rise and its drivers." },
+        { "name": "Ministry of Earth Sciences", "detail": "Coastal research", "gloss": "National ocean and coastal observations." }
+      ],
+      "whatYouCanDo": [
+        "Understand that sea-level rise is slow but effectively permanent.",
+        "Support coastal protection and planned retreat where needed.",
+        "Protect dunes, mangroves and wetlands."
+      ],
+      "caveats": "Educational information, not professional advice. Local projections vary with land movement and currents.",
+      "sources": [
+        { "title": "IPCC", "url": "https://www.ipcc.ch/" },
+        { "title": "Ministry of Earth Sciences", "url": "https://www.moes.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "ocean-cyclones-02",
+    "category": "Oceans, Coasts & Climate Disasters",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain how climate change affects cyclones in the Indian Ocean.",
+    "hook": "Warmer seas are fuel.",
+    "card": {
+      "oneLiner": "Warmer ocean water can make cyclones more intense and rainier, even if their total number does not rise.",
+      "keyPoints": [
+        "Warm water and moisture feed stronger cyclones.",
+        "Rapid intensification is harder to forecast.",
+        "The Arabian Sea has seen notable warming.",
+        "Early warning and evacuation save the most lives."
+      ],
+      "framework": [
+        { "name": "India Meteorological Department", "detail": "Cyclone warning services", "gloss": "Regional cyclone monitoring and forecasting." },
+        { "name": "IPCC AR6", "detail": "Extremes", "gloss": "Projected increases in intense tropical cyclones and rainfall." }
+      ],
+      "whatYouCanDo": [
+        "Heed official cyclone warnings promptly.",
+        "Know your nearest cyclone shelter and local plan.",
+        "Support mangrove and coastal ecosystem restoration."
+      ],
+      "caveats": "Educational information, not professional advice. Trends differ between ocean basins.",
+      "sources": [
+        { "title": "India Meteorological Department", "url": "https://mausam.imd.gov.in/" },
+        { "title": "IPCC", "url": "https://www.ipcc.ch/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "ocean-acidification-03",
+    "category": "Oceans, Coasts & Climate Disasters",
+    "mode": "deep-research",
+    "difficulty": "technical",
+    "prompt": "Explain ocean acidification and why it worries marine life.",
+    "hook": "More carbon dioxide means a sourer sea.",
+    "card": {
+      "oneLiner": "The ocean absorbs carbon dioxide and becomes more acidic, which harms shellfish, corals and the food chains that depend on them.",
+      "keyPoints": [
+        "Dissolved carbon dioxide changes ocean chemistry.",
+        "More acidic water makes it harder to build shells and skeletons.",
+        "Corals and shelled species are especially vulnerable.",
+        "The effects ripple through fisheries and food security."
+      ],
+      "framework": [
+        { "name": "IPCC", "detail": "Ocean and cryosphere", "gloss": "Observed and projected ocean acidification." },
+        { "name": "UN Environment Programme", "detail": "Ocean", "gloss": "Scientific assessments of ocean health." }
+      ],
+      "whatYouCanDo": [
+        "Reduce carbon emissions, the root cause.",
+        "Support marine protected areas.",
+        "Learn how local fisheries may be affected."
+      ],
+      "caveats": "Educational information, not professional advice. Effects vary by species and region.",
+      "sources": [
+        { "title": "IPCC", "url": "https://www.ipcc.ch/" },
+        { "title": "UN Environment Programme", "url": "https://www.unep.org/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "ocean-mangroves-04",
+    "category": "Oceans, Coasts & Climate Disasters",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain how mangroves protect coasts and store carbon.",
+    "hook": "Nature's seawall.",
+    "card": {
+      "oneLiner": "Mangroves buffer storm surges and erosion and store carbon in their waterlogged soil, making them valuable for both adaptation and mitigation.",
+      "keyPoints": [
+        "Dense roots break wave energy and trap sediment.",
+        "Their soils store large amounts of 'blue carbon'.",
+        "They are nurseries for fish and coastal life.",
+        "Restoration works best with the right species and hydrology."
+      ],
+      "framework": [
+        { "name": "Ministry of Environment, Forest and Climate Change", "detail": "Mangrove conservation", "gloss": "National programmes for mangrove protection." },
+        { "name": "Ramsar Convention", "detail": "Coastal wetlands", "gloss": "Recognition and protection of coastal wetlands." }
+      ],
+      "whatYouCanDo": [
+        "Support mangrove restoration in coastal areas.",
+        "Avoid clearing coastal vegetation.",
+        "Recognise mangroves as flood defences, not wasteland."
+      ],
+      "caveats": "Educational information, not professional advice. Restoration requires local ecological knowledge.",
+      "sources": [
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" },
+        { "title": "Ramsar Convention", "url": "https://www.ramsar.org/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "ocean-coral-05",
+    "category": "Oceans, Coasts & Climate Disasters",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain coral bleaching and why reefs are in trouble.",
+    "hook": "Heat turns reefs white.",
+    "card": {
+      "oneLiner": "When water gets too warm, corals expel the algae that feed them and bleach, and repeated bleaching can kill reefs that support fisheries and coasts.",
+      "keyPoints": [
+        "Bleaching happens when corals lose their symbiotic algae.",
+        "Marine heatwaves can trigger mass bleaching.",
+        "Reefs shelter fish and protect shorelines.",
+        "Restoration helps locally but not against sustained heat."
+      ],
+      "framework": [
+        { "name": "IPCC", "detail": "Reefs and warming", "gloss": "Projected decline of coral reefs with warming." },
+        { "name": "Ministry of Environment, Forest and Climate Change", "detail": "Marine conservation", "gloss": "Protection of coral and marine protected areas." }
+      ],
+      "whatYouCanDo": [
+        "Reduce local pressures such as pollution and overfishing.",
+        "Support marine protected areas.",
+        "Understand that cutting emissions is the only large-scale fix."
+      ],
+      "caveats": "Educational information, not professional advice. Recovery depends on the frequency and severity of heat stress.",
+      "sources": [
+        { "title": "IPCC", "url": "https://www.ipcc.ch/" },
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  }
+]

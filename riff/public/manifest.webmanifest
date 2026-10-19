@@ -1,0 +1,17 @@
+{
+  "name": "Riff — climate & environment",
+  "short_name": "Riff",
+  "description": "Spin a climate or environment topic, explain it out loud, then learn what the evidence actually says. Educational only, not professional advice.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0e0c",
+  "theme_color": "#0b0e0c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

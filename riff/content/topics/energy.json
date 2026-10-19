@@ -1,0 +1,162 @@
+[
+  {
+    "id": "energy-grid-01",
+    "category": "Energy & Renewables",
+    "mode": "deep-research",
+    "difficulty": "technical",
+    "prompt": "Explain how the power grid balances supply and demand.",
+    "hook": "Electricity must be made the instant it is used.",
+    "card": {
+      "oneLiner": "The grid must match generation to demand in real time, and variable solar and wind need flexibility from storage, hydro and demand management.",
+      "keyPoints": [
+        "Supply and demand are balanced second by second.",
+        "Solar and wind output varies with weather and time of day.",
+        "Storage, flexible plants and demand response provide balance.",
+        "Grid infrastructure must be strengthened for more renewables."
+      ],
+      "framework": [
+        { "name": "Central Electricity Authority", "detail": "Grid operation and planning", "gloss": "National planning and technical standards for the grid." },
+        { "name": "Ministry of Power", "detail": "Electricity policy", "gloss": "Policy for generation, transmission and distribution." }
+      ],
+      "whatYouCanDo": [
+        "Shift heavy appliance use to off-peak hours where incentives exist.",
+        "Understand that a green grid needs storage and wires, not just panels.",
+        "Follow grid and RE integration reports."
+      ],
+      "caveats": "Educational information, not professional advice. Grid operations are technical and region-specific.",
+      "sources": [
+        { "title": "Central Electricity Authority", "url": "https://cea.nic.in/" },
+        { "title": "Ministry of Power", "url": "https://powermin.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "energy-solar-growth-02",
+    "category": "Energy & Renewables",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain why solar has become India's fastest-growing power source.",
+    "hook": "The sun now competes on price.",
+    "card": {
+      "oneLiner": "Falling costs and strong policy have made solar India's cheapest source of new electricity, driving record capacity additions.",
+      "keyPoints": [
+        "Solar tariffs have fallen sharply through competitive auctions.",
+        "Utility-scale parks and rooftop systems are both growing.",
+        "Land, grid connection and storage are the main constraints.",
+        "Solar pairs an intermittent source with a variable grid."
+      ],
+      "framework": [
+        { "name": "Ministry of New and Renewable Energy", "detail": "Solar programmes", "gloss": "National solar targets and support schemes." },
+        { "name": "Central Electricity Authority", "detail": "Installed capacity", "gloss": "Official capacity and generation data." }
+      ],
+      "whatYouCanDo": [
+        "Check rooftop solar and net-metering options for your home.",
+        "Compare the levelised cost of solar with alternatives.",
+        "Recognise that daytime solar needs backup for evenings."
+      ],
+      "caveats": "Educational information, not professional advice. Costs and targets change over time.",
+      "sources": [
+        { "title": "Ministry of New and Renewable Energy", "url": "https://mnre.gov.in/" },
+        { "title": "Central Electricity Authority", "url": "https://cea.nic.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "energy-coal-transition-03",
+    "category": "Energy & Renewables",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain coal's role in India's energy mix and how the transition is managed.",
+    "hook": "The transition is real, but gradual.",
+    "card": {
+      "oneLiner": "Coal still supplies most of India's electricity, and shifting to clean power means retiring or repurposing old plants while protecting reliability and livelihoods.",
+      "keyPoints": [
+        "Coal remains the largest source of generation.",
+        "New capacity is dominated by renewables.",
+        "Old, polluting plants are candidates for retirement.",
+        "A just transition supports workers and communities."
+      ],
+      "framework": [
+        { "name": "Central Electricity Authority", "detail": "Generation mix", "gloss": "Official data on installed capacity and generation." },
+        { "name": "NITI Aayog", "detail": "Energy transition work", "gloss": "Policy analysis on the shift away from coal." }
+      ],
+      "whatYouCanDo": [
+        "Distinguish capacity share from generation share.",
+        "Support retraining and economic diversification in coal regions.",
+        "Track plans for plant retirement and repurposing."
+      ],
+      "caveats": "Educational information, not professional advice. Transition timelines depend on policy and demand.",
+      "sources": [
+        { "title": "Central Electricity Authority", "url": "https://cea.nic.in/" },
+        { "title": "NITI Aayog", "url": "https://www.niti.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "energy-efficiency-04",
+    "category": "Energy & Renewables",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain energy efficiency and how labels and standards save power.",
+    "hook": "The cheapest unit of energy is the one you do not use.",
+    "card": {
+      "oneLiner": "Appliance standards, star labels and efficiency schemes cut electricity demand and emissions at low cost.",
+      "keyPoints": [
+        "Star labels rate appliances on energy use.",
+        "Standards remove the least efficient models from the market.",
+        "Efficiency schemes have scaled LED lighting widely.",
+        "Industry efficiency is driven by target-based schemes."
+      ],
+      "framework": [
+        { "name": "Energy Conservation Act, 2001", "detail": "Standards and labelling", "gloss": "Legal basis for efficiency standards and labels." },
+        { "name": "Bureau of Energy Efficiency", "detail": "Standards and labelling", "gloss": "Administers appliance standards and the PAT scheme." }
+      ],
+      "whatYouCanDo": [
+        "Choose higher star-rated appliances.",
+        "Use LED bulbs and efficient fans and ACs.",
+        "Service appliances so they run efficiently."
+      ],
+      "caveats": "Educational information, not professional advice. Savings depend on usage and sizing.",
+      "sources": [
+        { "title": "Bureau of Energy Efficiency", "url": "https://beeindia.gov.in/" },
+        { "title": "Ministry of Power", "url": "https://powermin.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "energy-storage-05",
+    "category": "Energy & Renewables",
+    "mode": "deep-research",
+    "difficulty": "technical",
+    "prompt": "Explain battery storage and why it is key to clean power.",
+    "hook": "Batteries turn sunshine into round-the-clock power.",
+    "card": {
+      "oneLiner": "Energy storage smooths variable solar and wind output and provides backup, and falling battery costs are unlocking it across India's grid.",
+      "keyPoints": [
+        "Storage shifts daytime solar to evening demand.",
+        "Batteries and pumped hydro provide different durations.",
+        "Storage also helps the grid with frequency and backup.",
+        "Domestic manufacturing is being promoted."
+      ],
+      "framework": [
+        { "name": "Central Electricity Authority", "detail": "Storage planning", "gloss": "Grid planning for energy storage systems." },
+        { "name": "Ministry of New and Renewable Energy", "detail": "Storage programmes", "gloss": "Support for battery and hybrid projects." }
+      ],
+      "whatYouCanDo": [
+        "Understand storage as an enabler, not a competitor, to solar.",
+        "Support schemes that pair renewables with storage.",
+        "Follow battery manufacturing and recycling policy."
+      ],
+      "caveats": "Educational information, not professional advice. Technology and costs are changing quickly.",
+      "sources": [
+        { "title": "Central Electricity Authority", "url": "https://cea.nic.in/" },
+        { "title": "Ministry of New and Renewable Energy", "url": "https://mnre.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  }
+]

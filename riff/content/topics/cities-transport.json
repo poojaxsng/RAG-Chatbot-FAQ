@@ -1,0 +1,162 @@
+[
+  {
+    "id": "city-heat-island-01",
+    "category": "Cities, Transport & Health",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain urban heat islands and how cities can cool down.",
+    "hook": "Concrete keeps the heat.",
+    "card": {
+      "oneLiner": "Cities run hotter than their surroundings because of concrete, traffic and lost greenery, and trees, cool roofs and water bodies help bring the temperature down.",
+      "keyPoints": [
+        "Dark surfaces absorb and re-radiate heat.",
+        "Traffic and industry add waste heat.",
+        "Lost trees remove cooling shade and evaporation.",
+        "Cool roofs, shade and water features reduce risk."
+      ],
+      "framework": [
+        { "name": "India Meteorological Department", "detail": "Temperature records", "gloss": "Observed urban temperature and heatwave data." },
+        { "name": "National Disaster Management Authority", "detail": "Heat action plans", "gloss": "Guidance for city heat action plans." }
+      ],
+      "whatYouCanDo": [
+        "Plant and protect shade trees.",
+        "Use light or reflective roofing where possible.",
+        "Support cool-roof and shading programmes."
+      ],
+      "caveats": "Educational information, not professional advice. Heat patterns differ across neighbourhoods.",
+      "sources": [
+        { "title": "India Meteorological Department", "url": "https://mausam.imd.gov.in/" },
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "city-transport-02",
+    "category": "Cities, Transport & Health",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain how transport contributes to city emissions and air pollution.",
+    "hook": "Tailpipes are a big slice of city air.",
+    "card": {
+      "oneLiner": "Road transport is a major source of urban emissions and air pollution, and public transport, walking and cycling reduce both.",
+      "keyPoints": [
+        "Vehicles emit both greenhouse gases and health-harming pollutants.",
+        "Congestion wastes fuel and worsens exposure.",
+        "Public transport and active travel cut emissions per trip.",
+        "Electric buses and vehicles shift pollution away from streets."
+      ],
+      "framework": [
+        { "name": "Ministry of Housing and Urban Affairs", "detail": "Urban transport", "gloss": "National urban transport policy and programmes." },
+        { "name": "Central Pollution Control Board", "detail": "Vehicle emissions", "gloss": "Monitoring of vehicular air pollution." }
+      ],
+      "whatYouCanDo": [
+        "Use public transport, cycling or walking for short trips.",
+        "Consider electric options for the next vehicle.",
+        "Support better bus services and last-mile links."
+      ],
+      "caveats": "Educational information, not professional advice. Emissions depend on fleet, fuel and distance.",
+      "sources": [
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" },
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "city-green-buildings-03",
+    "category": "Cities, Transport & Health",
+    "mode": "deep-research",
+    "difficulty": "technical",
+    "prompt": "Explain how buildings can be made energy-efficient and climate-friendly.",
+    "hook": "Buildings lock in decades of energy use.",
+    "card": {
+      "oneLiner": "Building design, insulation and efficient systems cut energy demand for decades, and energy codes and ratings push the shift.",
+      "keyPoints": [
+        "Orientation, shading and insulation reduce cooling load.",
+        "Efficient lighting and cooling cut running energy.",
+        "Cool roofs lower heat gain in hot climates.",
+        "Retrofits can upgrade existing buildings."
+      ],
+      "framework": [
+        { "name": "Energy Conservation Building Code", "detail": "ECBC and GRIHA", "gloss": "Codes and ratings for efficient building design." },
+        { "name": "Bureau of Energy Efficiency", "detail": "Building efficiency", "gloss": "Programmes for energy-efficient buildings." }
+      ],
+      "whatYouCanDo": [
+        "Choose efficient cooling and lighting.",
+        "Use shading, ventilation and a light roof.",
+        "Consider a green-building rating for new construction."
+      ],
+      "caveats": "Educational information, not professional advice. Payback depends on climate and usage.",
+      "sources": [
+        { "title": "Bureau of Energy Efficiency", "url": "https://beeindia.gov.in/" },
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "city-green-space-04",
+    "category": "Cities, Transport & Health",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain why urban green spaces matter for climate and health.",
+    "hook": "Parks are public health infrastructure.",
+    "card": {
+      "oneLiner": "Urban trees and green spaces cool cities, clean the air, absorb rainwater and improve physical and mental health.",
+      "keyPoints": [
+        "Shade and evaporation lower local temperatures.",
+        "Vegetation traps some pollutants and absorbs rain.",
+        "Green spaces support birds, insects and people.",
+        "Benefits are often greater in denser neighbourhoods."
+      ],
+      "framework": [
+        { "name": "Ministry of Housing and Urban Affairs", "detail": "Urban green", "gloss": "Guidance on urban green spaces and planning." },
+        { "name": "World Health Organization", "detail": "Urban health", "gloss": "Evidence on green space and health." }
+      ],
+      "whatYouCanDo": [
+        "Care for street trees in your area.",
+        "Create community gardens and pocket parks.",
+        "Protect existing green areas from construction."
+      ],
+      "caveats": "Educational information, not professional advice. Access to green space is uneven.",
+      "sources": [
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" },
+        { "title": "World Health Organization", "url": "https://www.who.int/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "city-heat-health-05",
+    "category": "Cities, Transport & Health",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain how heat and pollution affect public health in Indian cities.",
+    "hook": "Climate change is a health story.",
+    "card": {
+      "oneLiner": "Heatwaves and air pollution raise illness and death, and heat action plans and clean-air measures protect the most vulnerable.",
+      "keyPoints": [
+        "Heat stress causes dehydration, stroke and death.",
+        "Outdoor workers and the elderly are most at risk.",
+        "Air pollution worsens respiratory and heart disease.",
+        "Vulnerable groups include children and the poor."
+      ],
+      "framework": [
+        { "name": "Ministry of Health & Family Welfare", "detail": "Public health", "gloss": "National health policy and heat-health advisories." },
+        { "name": "World Health Organization", "detail": "Climate and health", "gloss": "Evidence on heat, air pollution and health." }
+      ],
+      "whatYouCanDo": [
+        "Follow local heat advisories and stay hydrated.",
+        "Provide shade and water for outdoor workers.",
+        "Support clean-air and heat-action measures."
+      ],
+      "caveats": "Educational information, not professional advice. In a health emergency, contact medical services.",
+      "sources": [
+        { "title": "Ministry of Health & Family Welfare", "url": "https://mohfw.gov.in/" },
+        { "title": "World Health Organization", "url": "https://www.who.int/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  }
+]

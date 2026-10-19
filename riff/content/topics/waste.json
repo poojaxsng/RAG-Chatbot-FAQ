@@ -1,0 +1,161 @@
+[
+  {
+    "id": "waste-segregation-01",
+    "category": "Waste & Circular Economy",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain waste segregation and why separating at source matters.",
+    "hook": "Sorting at the bin beats sorting at the dump.",
+    "card": {
+      "oneLiner": "Separating waste into wet, dry and hazardous streams at source makes composting and recycling possible and keeps landfills smaller.",
+      "keyPoints": [
+        "Wet waste can be composted or digested.",
+        "Dry waste can be recycled if it is clean and separated.",
+        "Hazardous and sanitary waste need separate handling.",
+        "Mixed waste becomes unrecoverable and goes to landfill."
+      ],
+      "framework": [
+        { "name": "Solid Waste Management Rules, 2016", "detail": "Segregation at source", "gloss": "Duty to segregate waste into specified streams." }
+      ],
+      "whatYouCanDo": [
+        "Keep separate bins for wet, dry and hazardous waste.",
+        "Rinse and dry recyclables before handing them over.",
+        "Ask your local body how collected waste is processed."
+      ],
+      "caveats": "Educational information, not professional advice. Local collection systems vary widely.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" },
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "waste-plastic-02",
+    "category": "Waste & Circular Economy",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain the rules on single-use plastic and how plastic is phased out.",
+    "hook": "Some plastic is banned; the rest still needs managing.",
+    "card": {
+      "oneLiner": "India bans a list of single-use plastic items and sets extended producer responsibility for packaging, while thinner carry bags are also restricted.",
+      "keyPoints": [
+        "Certain single-use items are prohibited.",
+        "Packaging carries producer responsibilities for collection and recycling.",
+        "Minimum thickness rules apply to carry bags.",
+        "Enforcement and alternatives remain practical challenges."
+      ],
+      "framework": [
+        { "name": "Plastic Waste Management Rules", "detail": "Amendments and 2022 ban", "gloss": "Rules on plastic waste, thickness and single-use items." },
+        { "name": "Central Pollution Control Board", "detail": "Plastic waste", "gloss": "Monitoring and guidance on plastic waste management." }
+      ],
+      "whatYouCanDo": [
+        "Carry reusable bags, bottles and cutlery.",
+        "Refuse single-use items when you can.",
+        "Return packaging where take-back systems exist."
+      ],
+      "caveats": "Educational information, not professional advice. The banned list and rules change over time.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" },
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "waste-landfill-03",
+    "category": "Waste & Circular Economy",
+    "mode": "deep-research",
+    "difficulty": "mixed",
+    "prompt": "Explain landfills, leachate and why legacy waste is a problem.",
+    "hook": "Buried waste does not disappear.",
+    "card": {
+      "oneLiner": "Landfills generate methane and a toxic liquid called leachate, and old accumulation or 'legacy' waste dumps are now being cleared and remediated.",
+      "keyPoints": [
+        "Decomposing organic waste releases methane.",
+        "Leachate can seep into soil and groundwater.",
+        "Old dumps are being biomined to recover land.",
+        "Reducing waste at source shrinks the problem."
+      ],
+      "framework": [
+        { "name": "Solid Waste Management Rules, 2016", "detail": "Landfilling", "gloss": "Standards for sanitary landfills and legacy waste." },
+        { "name": "Central Pollution Control Board", "detail": "Landfill guidance", "gloss": "Technical standards and monitoring." }
+      ],
+      "whatYouCanDo": [
+        "Compost wet waste so less reaches the landfill.",
+        "Support local legacy-waste clean-ups.",
+        "Ask whether your city has a sanitary landfill."
+      ],
+      "caveats": "Educational information, not professional advice. Remediation is slow and site-specific.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" },
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "waste-epr-04",
+    "category": "Waste & Circular Economy",
+    "mode": "deep-research",
+    "difficulty": "technical",
+    "prompt": "Explain Extended Producer Responsibility for packaging.",
+    "hook": "The maker cleans up, not just the buyer.",
+    "card": {
+      "oneLiner": "Extended Producer Responsibility makes producers responsible for collecting and recycling the packaging they put on the market, backed by targets.",
+      "keyPoints": [
+        "Producers must meet collection and recycling targets.",
+        "Obligations can be met through certificates.",
+        "It shifts the cost of waste from taxpayers to producers.",
+        "Monitoring and data quality are the hard part."
+      ],
+      "framework": [
+        { "name": "Extended Producer Responsibility guidelines", "detail": "Under plastic and e-waste rules", "gloss": "Targets and certificate mechanisms for producers." },
+        { "name": "Central Pollution Control Board", "detail": "EPR portal", "gloss": "Registration and reporting for obligated entities." }
+      ],
+      "whatYouCanDo": [
+        "Support brands that take back packaging.",
+        "Check whether your city's recyclers are formalised.",
+        "Understand that EPR needs enforcement to work."
+      ],
+      "caveats": "Educational information, not professional advice. Rules and targets are revised over time.",
+      "sources": [
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" },
+        { "title": "Ministry of Environment, Forest and Climate Change", "url": "https://moef.gov.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  },
+  {
+    "id": "waste-compost-05",
+    "category": "Waste & Circular Economy",
+    "mode": "off-the-cuff",
+    "difficulty": "everyday",
+    "prompt": "Explain composting and how households and cities turn waste into a resource.",
+    "hook": "Garbage in, compost out.",
+    "card": {
+      "oneLiner": "Composting turns wet waste into a soil amendment, cutting methane from landfills and returning nutrients to the soil.",
+      "keyPoints": [
+        "Microbes break down organic waste into compost.",
+        "Home bins suit households; cities compost at scale.",
+        "Composting avoids the methane made in landfills.",
+        "The finished compost improves soil and saves water."
+      ],
+      "framework": [
+        { "name": "Solid Waste Management Rules, 2016", "detail": "Organic processing", "gloss": "Preference for processing wet waste locally." },
+        { "name": "Ministry of Housing and Urban Affairs", "detail": "Composting guidance", "gloss": "Guidance on decentralised wet-waste processing." }
+      ],
+      "whatYouCanDo": [
+        "Start a home or society compost bin.",
+        "Avoid putting cooked and oily food in dry recyclables.",
+        "Use finished compost in gardens and common areas."
+      ],
+      "caveats": "Educational information, not professional advice. Composting needs the right mix of greens, browns and air.",
+      "sources": [
+        { "title": "Ministry of Housing and Urban Affairs", "url": "https://mohua.gov.in/" },
+        { "title": "Central Pollution Control Board", "url": "https://cpcb.nic.in/" }
+      ],
+      "asOf": "2026-10-13"
+    }
+  }
+]

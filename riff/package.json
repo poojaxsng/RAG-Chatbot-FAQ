@@ -1,0 +1,32 @@
+{
+  "name": "riff",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Riff — climate & environment (India). Spin a topic, explain it out loud, then learn what the evidence says.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "check:content": "tsx scripts/check-content.ts",
+    "test": "tsx scripts/check-content.ts && tsx scripts/deck.test.ts"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "oxlint": "^1.79.0",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.13",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  }
+}
